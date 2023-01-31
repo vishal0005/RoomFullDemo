@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomFullDemo</string>
+    <string name="enter_user_id">Enter user id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="title">Title</string>
+    <string name="add">Add</string>
+    <string name="item_added_successfully">Item added successfully</string>
+    <string name="item_added_failed">Item added failed</string>
+    <string name="description">Description</string>
+</resources>
